@@ -1,6 +1,7 @@
 ---
-layout: nil
+Path: '/login'
 title: How to Efficiently Take Notes With EverNote
+layout: nil
 ---
 
 # How To Efficiently Take Notes With EverNote
