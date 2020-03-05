@@ -7,7 +7,7 @@ layout: nil
 
 This method allows users to retrieve stuff.
 
-### Response
+### Changed this
 
 Sends back a collection of things.
 
