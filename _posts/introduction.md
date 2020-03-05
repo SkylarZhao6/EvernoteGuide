@@ -1,3 +1,8 @@
+---
+layout: nil
+title: How to Efficiently Take Notes With EverNote
+---
+
 # How To Efficiently Take Notes With EverNote
 
 ## Introduction and Goals
