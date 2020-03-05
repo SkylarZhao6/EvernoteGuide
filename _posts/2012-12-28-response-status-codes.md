@@ -1,41 +1,65 @@
 ---
-title: 'Response status codes'
+title: 'Introduction'
 
 layout: nil
 ---
 
-### Success
+# How To Efficiently Take Notes With EverNote
 
-Successes differ from errors in that their body may not be a simple response object with a code and a message. The headers however are consistent across all calls:
+## Introduction and Goals
 
-* `GET`, `PUT`, `DELETE` returns `200 OK` on success,
-* `POST ` returns 201 on success,
+The purpose of this document is to help you use EverNote, the note taking software will help you organize your notes and have access to your notes faster. EverNote utilizes side bar functions to make notes more organized. The principle of this design is that writing consistent style of notes and orgranizing notes in folders will improve your learning experience and save more time.
 
-When [retrieving stuff](#get-stuff) for example:
+___
 
-```Status: 200 OK```
-```{
-    {
-        id: thing_1,
-        name: 'My first thing'
-    },
-    {
-        id: thing_2,
-        name: 'My second thing'
-    }
-}```
+## Is This Guide for You?
 
-### Error
+This guide is created for beginner users with basic computer skills. With step by step instructions with lots of visual images, you will how to utilize EverNote effeciently.
 
-Error responses are simply returning [standard HTTP error codes](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html) along with some additional information:
+By the end of this guide, you will
 
-* The error code is sent back as a status header,
-* The body includes an object describing both the code and message (for debugging and/or display purposes),
+* Learn how to sign up for EverNote
+* Build a template for a semester
+* Learn how to use useful app functions
+* Utilize template options for specific task
+* Learn how to install web clicker
 
-For a call with an invalid authentication token for example:
+## Prerequistes
 
-```Status: 401 Access denied```
-```{
-    code: 401,
-    message: 'Access denied: invalid authentication token.'
-}```
+To follow these instructions, you will need:
+
+* An account with EverNote
+* A keyboard and mouse/trackpad to computer
+* An email account
+* Familiarity with basic computer task and graphical user interface terminology(GUI), such as menu, buttons, mouse pointer, icons, folders etc.
+* Make sure you're fullscreen when going through this guide.
+
+## Mouse Conventions
+
+We use the following industry standard mouse-related terms:
+
+* **Click**: Press left button once and release immediately.
+
+___
+
+## Typographical Convention
+
+Convention Explanation | Examples
+--- | --- |
+Commands & Actions: <br> <br> Words are bold to represent a command or action you must perform. | **Click, Insert**  |
+Buttons: <br> <br> Buttons are enclosed with square brackets. | [Button]
+Column Name: <br> <br> Column name have a block of grey background color. | ```Column name``` |
+Text Field: <br> <br> Text fields are all italic to show that user needs to input value. | _Notebook Name_ |
+
+___
+
+## Note & Warning Messages
+
+This guide uses notes and warnings to convey additional information on a specific spot.
+
+Icon | Explanation
+--- | --- |
+| ![More Information](/images/MoreInformation.png "Additional Information Logo") | **Note**: Symbol provides additional information about the step. They will be highlighted in grey with an image. |
+| ![Warning](/images/Warning.png "Warning Logo") | **Note**: Symbol provides warning information that you may not recover after commiting an action. |
+
+___
