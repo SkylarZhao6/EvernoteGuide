@@ -1,3 +1,10 @@
+---
+path: '/login'
+title: 'Section 2'
+
+layout: nil
+---
+
 # Guide in creating a notebook with organized notes
 
 ## Instructions
