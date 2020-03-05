@@ -1,3 +1,9 @@
+---
+Path: '/login'
+title: How to Efficiently Take Notes With EverNote
+layout: nil
+---
+
 # Task One - Sign Up With Evernote
 ​
 The first step to taking notes with Evernote on web browsers, is creating an account. You will need a valid email or Google account, and click **sign up for free** or **Sign Up** on the top, right corner of Evernote official website, then we will show you the process of signing up within a few steps.
