@@ -60,6 +60,6 @@ This guide uses notes and warnings to convey additional information on a specifi
 Icon | Explanation
 --- | --- |
 | ![More Information](https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Warning.png "Additional Information Logo") | **Note**: Symbol provides additional information about the step. They will be highlighted in grey with an image. |
-| ![Warning](../images/Warning.png "Warning Logo") | **Note**: Symbol provides warning information that you may not recover after commiting an action. |
+| ![Warning](https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Warning.png "Warning Logo") | **Note**: Symbol provides warning information that you may not recover after commiting an action. |
 
 ___
