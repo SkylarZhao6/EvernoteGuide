@@ -6,6 +6,8 @@ layout: nil
 
 # How To Efficiently Take Notes With EverNote
 
+___
+
 ## Introduction and Goals
 
 The purpose of this document is to help you use EverNote, the note taking software will help you organize your notes and have access to your notes faster. EverNote utilizes side bar functions to make notes more organized. The principle of this design is that writing consistent style of notes and orgranizing notes in folders will improve your learning experience and save more time.
@@ -24,6 +26,8 @@ By the end of this guide, you will
 * Utilize template options for specific task
 * Learn how to install web clicker
 
+___
+
 ## Prerequistes
 
 To follow these instructions, you will need:
@@ -33,6 +37,8 @@ To follow these instructions, you will need:
 * An email account
 * Familiarity with basic computer task and graphical user interface terminology(GUI), such as menu, buttons, mouse pointer, icons, folders etc.
 * Make sure you're fullscreen when going through this guide.
+
+___
 
 ## Mouse Conventions
 
