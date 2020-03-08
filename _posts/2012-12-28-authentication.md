@@ -1,20 +1,72 @@
 ---
 path: '/login'
-title: 'Authenticate'
+title: 'Introduction'
 
 layout: nil
 ---
 
-This method allows users to retrieve stuff.
+# Introduction
 
-### Response
+___
 
-Sends back a collection of things.
+## Introduction and Goals
 
-```Authentication: bearer TOKEN```
-```{
-    id: thing_2,
-    name: 'My second thing'
-}```
+The purpose of this document is to help you use EverNote, the note taking software will help you organize your notes and have access to your notes faster. EverNote utilizes side bar functions to make notes more organized. The principle of this design is that writing consistent style of notes and orgranizing notes in folders will improve your learning experience and save more time.
 
-For errors responses, see the [response status codes documentation](#response-status-codes).
+___
+
+## Is This Guide for You?
+
+This guide is created for beginner users with basic computer skills. With step by step instructions with lots of visual images, you will how to utilize EverNote effeciently.
+
+By the end of this guide, you will
+
+* Learn how to sign up for EverNote
+* Build a template for a semester
+* Learn how to use useful app functions
+* Utilize template options for specific task
+* Learn how to install web clicker
+
+___
+
+## Prerequistes
+
+To follow these instructions, you will need:
+
+* An account with EverNote
+* A keyboard and mouse/trackpad to computer
+* An email account
+* Familiarity with basic computer task and graphical user interface terminology(GUI), such as menu, buttons, mouse pointer, icons, folders etc.
+* Make sure you're fullscreen when going through this guide.
+
+___
+
+## Mouse Conventions
+
+We use the following industry standard mouse-related terms:
+
+* **Click**: Press left button once and release immediately.
+
+___
+
+## Typographical Convention
+
+Convention Explanation | Examples
+--- | --- |
+Commands & Actions: <br> <br> Words are bold to represent a command or action you must perform. | **Click, Insert**  |
+Buttons: <br> <br> Buttons are enclosed with square brackets. | [Button]
+Column Name: <br> <br> Column name have a block of grey background color. | ```Column name``` |
+Text Field: <br> <br> Text fields are all italic to show that user needs to input value. | _Notebook Name_ |
+
+___
+
+## Note & Warning Messages
+
+This guide uses notes and warnings to convey additional information on a specific spot.
+
+Icon | Explanation
+--- | --- |
+| ![More Information](/images/MoreInformation.png "Additional Information Logo") | **Note**: Symbol provides additional information about the step. They will be highlighted in grey with an image. |
+| ![Warning](/images/Warning.png "Warning Logo") | **Note**: Symbol provides warning information that you may not recover after commiting an action. |
+
+___
