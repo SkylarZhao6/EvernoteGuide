@@ -637,3 +637,7 @@ code {
   padding: 15px;
   white-space: pre;
 }
+
+img {
+  width: 200;
+}
