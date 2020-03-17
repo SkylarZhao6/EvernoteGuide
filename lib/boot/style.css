@@ -4,6 +4,10 @@ body {
   height: 100%;
 }
 
+img {
+  width: 200px;
+}
+
 body {
   background: #fff;
 }
