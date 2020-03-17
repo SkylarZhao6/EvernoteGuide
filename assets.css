@@ -220,6 +220,7 @@ sub {
 
 img {
     border: 0;
+    width: 200px;
 }
 
 /**
@@ -638,6 +639,4 @@ code {
   white-space: pre;
 }
 
-img {
-  width: 200;
-}
+
