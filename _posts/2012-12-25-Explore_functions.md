@@ -1,7 +1,7 @@
 ---
 category: Stuff
 path: '/stuff/:id'
-title: 'Explore functions such as “Share with me, tags and shortcut"
+title: 'Explore functions such as “Share with me, tags and shortcut"'
 
 layout: nil
 ---
