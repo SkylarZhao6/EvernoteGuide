@@ -6,7 +6,7 @@ title: 'Exploring functions'
 layout: nil
 ---
 
-# Explore functions such as “Share with me, tags and trash and shortcut”
+# Explore functions such as “Share with me, tags and shortcut”
 
 ___
 
