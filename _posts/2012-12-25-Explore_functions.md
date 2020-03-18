@@ -49,7 +49,7 @@ ___
 
 2. **Drag** your cursor to the [+] sign and **Click**
 
-![More Information](/images/MoreInformation.png "Additional Information Logo") | Note: A drop down menu will appear.
+![Alt Text](https://camo.githubusercontent.com/286e1fcebde431e2e1a9738db7b24446221c7f9c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f59523246704c44485170556365796a327a502f67697068792e676966) | Note: A drop down menu will appear.
 --- | --- |
 
 3. **Click** on the [table] icon
