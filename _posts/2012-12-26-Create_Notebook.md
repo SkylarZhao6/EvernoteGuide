@@ -8,6 +8,8 @@ layout: nil
 
 # Guide in creating a notebook with organized notes
 
+___
+
 ## Instructions
 
 To gain a better understaing of EverNote , this guide will help you through 4 common tasks:
@@ -17,10 +19,13 @@ To gain a better understaing of EverNote , this guide will help you through 4 co
 - Adding notes into a notebook
 - Editing and deleting notebook
 
+___
 
 ### Task 2 - Creating a Notebook for a semester
 
 Notebooks are used in EverNote to seperate main tasks. We will be going through how to create a new notebook, how to rename a notebook and how to delete a notebook.
+
+___
 
 #### Task 2.1 - Create a new Notebook
 
@@ -36,6 +41,8 @@ Notebooks are used in EverNote to seperate main tasks. We will be going through 
 
 ![More Information](https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Task2.1.3.png "Confirm new notebook")
 
+___
+
 #### Task 2.2 - Renaming a Notebook
 
 1. **Click** on the NoteBook on your side bar to check all notebooks.
@@ -50,6 +57,8 @@ Notebooks are used in EverNote to seperate main tasks. We will be going through 
 
 ![Alt Text](https://camo.githubusercontent.com/286e1fcebde431e2e1a9738db7b24446221c7f9c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f59523246704c44485170556365796a327a502f67697068792e676966)
 
+___
+
 #### Task 2.3 - Deleting a Notebook
 
 1. **Click** on the NoteBook on your side bar to check all notebooks.
@@ -59,6 +68,8 @@ Notebooks are used in EverNote to seperate main tasks. We will be going through 
 3. **Click** on the [Delete notebook] button
 
 ![Alt Text](https://camo.githubusercontent.com/d33f7bfb73a956420aefbfd2029f80312fad9c41/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5752466c31635a6c7735656a4230446453522f67697068792e676966)
+
+___
 
 #### Task 2.4 - Adding a note to the notebook you created
 
@@ -76,6 +87,8 @@ Notebooks are used in EverNote to seperate main tasks. We will be going through 
 4. **Insert** a title name and start inputing notes under the title
 
 ![More Information](https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Task2.4.1.png "Add new notebook")
+
+___
 
 #### Task 2.5 - Deleting the note on a specific notebook
 
@@ -96,6 +109,8 @@ Notebooks are used in EverNote to seperate main tasks. We will be going through 
 5. **Click** on the [Continue] button.
 
 ![Alt Text](https://camo.githubusercontent.com/01896b7fb3bec8f4572af6c27b57e8557a6b0ea6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4b654569316c4153456f47587638543247652f67697068792e676966)
+
+___
 
 #### Task 2 - Completion Checklist
 
