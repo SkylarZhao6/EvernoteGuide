@@ -224,6 +224,9 @@ img {
     height: 400px;
 }
 
+#note {
+   width: 100px;
+}
 /**
  * Correct overflow displayed oddly in IE 9.
  */
