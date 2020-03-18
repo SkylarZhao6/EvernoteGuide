@@ -79,8 +79,8 @@ ___
 
 3. **Click** on the [+ New Note] button
 
-![More Information](https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/MoreInformation.png "Additional Information Logo") | Note: Avoid the downward arrow beside the [+ New Note] button for now.
---- | --- |
+| <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/MoreInformation.png" id="note"> | **Note**: Avoid the downward arrow beside the [+ New Note] button for now. |
+| :---: | :---: |
 
 ![Alt Text](https://camo.githubusercontent.com/191ee927e6166a6ffe5c3f5b689cea8d7798926a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6947764f496d506b6f4d69756a50715976452f67697068792e676966)
 
@@ -96,15 +96,15 @@ ___
 
 2. Beside the name of your notebook, **click** on the play button.
 
-![More Information](https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/MoreInformation.png "Additional Information Logo") | Note: This will display all of your notes added within the notebook.
---- | --- |
+| <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/MoreInformation.png" id="note"> | **Note**: This will display all of your notes added within the notebook.
+:---: | :---: |
 
 3. **Click** on the three dots button [···] under the ```ACTIONS``` section.
 
 4. **Click** on the [Delete note] button
 
-![More Information](https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Warning.png "Additional Information Logo") | Warning: Once you delete the note, you cannot retrieve it.
---- | --- |
+| <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Warning.png" id="note"> | **Warning**: Once you delete the note, you cannot retrieve it.
+:---: | :---: |
 
 5. **Click** on the [Continue] button.
 
