@@ -31,7 +31,7 @@ ___
 
 1. **Click** on the NoteBook on your side bar to check all notebooks.
 
-![More Information](https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Task2.1.1.png "maneuver to notebook")
+<img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Task2.1.1.png" id="task2.1" "maneuver to notebook">
 
 2. **Click** [New Notebooks] icon to create a new notebook.
 
@@ -49,7 +49,7 @@ ___
 
 2. **Click** on the three dots button [···] under the ```ACTIONS``` section.
 
-![More Information](https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Task2.2.1.png "Confirm new notebook")
+<img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Task2.2.1.png" id="task2.2" "Confirm new notebook">
 
 3. **Click** on [Rename notebook] option to rename your notebook.
 
@@ -87,7 +87,7 @@ ___
 
 4. **Insert** a title name and start inputing notes under the title
 
-![More Information](https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Task2.4.1.png "Add new notebook")
+<img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Task2.4.1.png" id="task2.4" "Add new notebook">
 
 ___
 
