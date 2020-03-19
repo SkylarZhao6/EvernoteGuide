@@ -1,3 +1,8 @@
+---
+Path: '/login'
+title: How to Sign Up With EverNote
+---
+
 # Sign up with Evernote
 
 The first step to taking notes with Evernote on web browsers, is creating an account. 
