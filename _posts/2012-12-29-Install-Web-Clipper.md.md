@@ -18,7 +18,7 @@ This section will show you the steps to install Web Clipper on your browser and 
 
    Log into Evernote on a web browser, click **Get Started** at the left, bottom corner of the screen. You will see **"Install Web Clipper"** in the list.
 
-   <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/getstarted.png?raw=true">
+   <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/getstarted.png?raw=true" id="getStart">
 
 2. Install Web Clipper
 
