@@ -34,7 +34,7 @@ We will show you how to apply Web Clipper's main features on __The New York Time
 
 Click the green elephant logo on the top tool bar. It will generate a list and change the web page format to **Simplified article** by default.
 
-<img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/featurelist.png?raw=true">
+<img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/featurelist.png?raw=true" id="featureList">
 
 ## Choose a format
 
