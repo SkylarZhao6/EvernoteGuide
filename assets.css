@@ -641,7 +641,7 @@ code {
   white-space: pre;
 }
 
-#task2_1, #getStart, #featureList {
+#task2_1 {
   width: 400px;
   height: 700px;
 }
@@ -653,4 +653,9 @@ code {
 
 #task2_4 {
   width: 900px;
+}
+
+#getStart, #featureList {
+  width: 300px;
+  height: 800px;
 }
