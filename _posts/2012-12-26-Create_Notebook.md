@@ -87,7 +87,7 @@ ___
 
 4. **Insert** a title name and start inputing notes under the title
 
-<img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Task2.4.1.png" id="task2.4" "Add new notebook">
+<img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Task2.4.1.png" id="task2.4">
 
 ___
 
