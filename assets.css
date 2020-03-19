@@ -641,7 +641,7 @@ code {
   white-space: pre;
 }
 
-#task2_1 {
+#task2_1, #getStart, #featureList, #temp2{
   width: 400px;
   height: 700px;
 }
@@ -655,7 +655,15 @@ code {
   width: 900px;
 }
 
-#getStart, #featureList {
-  width: 300px;
-  height: 800px;
+#notebook, #tags {
+  width: 550px;
+  height: 350px;
+}
+
+#gallery, #newnote, #search {
+  width: 400px;
+}
+
+#category, #result {
+  height: 450px;
 }
