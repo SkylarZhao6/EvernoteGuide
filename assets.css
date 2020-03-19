@@ -655,15 +655,11 @@ code {
   width: 900px;
 }
 
-#notebook, #tags {
-  width: 550px;
-  height: 350px;
-}
-
-#gallery, #newnote, #search {
-  width: 400px;
+#gallery, #newnote, #search, #notebook, #tags, #signup{
+  width: 600px;
+  height: 400px;
 }
 
 #category, #result {
-  height: 450px;
+  height: 600px;
 }
