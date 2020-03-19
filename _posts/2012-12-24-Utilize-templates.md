@@ -1,7 +1,7 @@
 ---
 category: Stuff
 path: '/stuff'
-title: 'Uitilzing Note Templates'
+title: 'Utilzing Note Templates'
 
 layout: nil
 ---
