@@ -49,8 +49,8 @@ ___
 
 2. **Drag** your cursor to the [+] sign and **Click**
 
-![More Information](https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/MoreInformation.png "Additional Information Logo")| Note: A drop down menu will appear.
---- | --- |
+| :---: | :---: |
+| <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/MoreInformation.png" id="note"> | **Note**: A drop down menu will appear.. |
 
 3. **Click** on the [table] icon
 
