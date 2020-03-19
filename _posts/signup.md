@@ -1,6 +1,16 @@
 ---
+category: Stuff
+path: '/stuff'
+title: 'How to sign up with Evernote'
+
+
+layout: nil
+---
+
+---
 Path: '/login'
-title: How to Sign Up With EverNote
+title: How to Efficiently Take Notes With EverNote
+layout: nil
 ---
 
 # Sign up with Evernote
