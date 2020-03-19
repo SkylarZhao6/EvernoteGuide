@@ -1,3 +1,11 @@
+---
+category: Stuff
+path: '/stuff'
+title: 'Installing Web Clipper'
+
+layout: nil
+---
+
 # Guide in installing and using Evernote Web Clipper
 
 Evernote Web Clipper is a browser extension that, available for Chrome, Safari, Internet Explorer (IE) 7+, Firefox, Opera, and Microsoft Edge (for Windows 10 or higher). You can use it to save things on the web into your Evernote account. It works like a bookmark but owns more advanced functions.
