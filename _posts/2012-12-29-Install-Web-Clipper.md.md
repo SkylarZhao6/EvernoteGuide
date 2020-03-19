@@ -72,7 +72,7 @@ The bottom half section is **Organization** will help you to save the operations
 
   To specify a notebook saves your clip, Evernote provides three options:
 
-  <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/myNotebook.png?raw=true">
+  <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/myNotebook.png?raw=true" id="notebook">
 
   1. Type in keywords of a notebook in **Find...**.
 
@@ -84,4 +84,4 @@ The bottom half section is **Organization** will help you to save the operations
 
   Enter text into the tag or remark input bar, they will be saved with the clip into your chose notebook.
 
-  <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/tagRemark.png?raw=true">
+  <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/tagRemark.png?raw=true" id="tags">
