@@ -1,7 +1,7 @@
 ---
 category: Stuff
 path: '/stuff'
-title: 'Utilzing Note Templates'
+title: 'Utilzing note templates'
 
 layout: nil
 ---
@@ -16,13 +16,13 @@ This section will show you the two methods to discover note template and find on
 
 To discover and choose from the existing templates, you will click the green, oval button with **New Note** in the left side bar. The button is split into two parts, it supports two different methods for you to view the templates.
 
-<img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/newnote.png?raw=true">
+<img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/newnote.png?raw=true" id="newnote">
 
 ### Method 1
 
 The right side of the button is a shortcut to view nine popular templates.
 
-<img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/temp2.png?raw=true">
+<img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/temp2.png?raw=true" id="temp2">
 
 As the picture shown above, it generates a list of the most commonly used templates after clicking. This is the fastest way to find templates if you are keeping notes for simple purposes such as lectures and meetings.
 
@@ -40,7 +40,7 @@ You will jump to a new page with all of the existing templates in Evernote as th
 
 The **Template Gallery** is currently in blue which means you are in it by default, every single note templates in Evernote are displaying by time created order.
 
-<img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/gallery.png?raw=true">
+<img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/gallery.png?raw=true" id="gallery">
 
 Alternatively, you can click **My Templates** to view the templates that you have saved earlier.
 
@@ -52,13 +52,13 @@ We will show you how to find a suitable template that within a few steps, by usi
 
      Type "menu" in the search input bar, which is on the top, right corner. The results will be generated in both **Template Gallery** and **My Templates**.
 
-      <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/searchmenu.png?raw=true">
+      <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/searchmenu.png?raw=true" id="search">
 
    - Select by categories
 
     Click "For Life" in **collections** or "Home and Garden" in **categories**, the templates based on it will be displayed at the right side of the screen.
 
-    <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/category.png?raw=true">
+    <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/category.png?raw=true" id="category">
 
    - Search keywords in certain category
 
@@ -68,7 +68,7 @@ We will show you how to find a suitable template that within a few steps, by usi
 
     2. Select one option either in collections or categories
 
-    <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/menuresult.png?raw=true">
+    <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/menuresult.png?raw=true" id="result">
 
     __The order does not matter.__
 
