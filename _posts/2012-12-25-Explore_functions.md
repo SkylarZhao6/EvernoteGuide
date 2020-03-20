@@ -39,11 +39,11 @@ ___
 
 #### Task 3.1 - Sharing your notes with another user
 
-    ![More information](https://media.giphy.com/media/hTOBbJmE4MqY8DIeFM/giphy.gif)
+   ![More information](https://media.giphy.com/media/hTOBbJmE4MqY8DIeFM/giphy.gif)
 
 You could also check the amount of users you shared you notes with
 
-    ![More information](https://media.giphy.com/media/VdEBihMw9u0DZsSwhW/giphy.gif)
+   ![More information](https://media.giphy.com/media/VdEBihMw9u0DZsSwhW/giphy.gif)
 
 <br>
 
@@ -53,7 +53,7 @@ ___
 
 #### Task 3.2 - Making it shareable to every user with a link
 
-    ![More information](https://media.giphy.com/media/WREsjBYlZ6maz8Ihua/giphy.gif)
+   ![More information](https://media.giphy.com/media/WREsjBYlZ6maz8Ihua/giphy.gif)
 
 <br>
 
@@ -132,7 +132,7 @@ Tag names on your notes are important for fast searching specific notes.
 
 3. **Click** on the [Tags] button on the side bar.
 
-You will see a pop-out of all the tags you have made.
+    You will see a pop-out of all the tags you have made.
 
 4. **Click** on the desired tag name and the note will pop out.
 
