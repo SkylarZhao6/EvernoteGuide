@@ -39,11 +39,13 @@ ___
 
 #### Task 3.1 - Sharing your notes with another user
 
-   ![More information](https://media.giphy.com/media/hTOBbJmE4MqY8DIeFM/giphy.gif)
+Sharing your notes with another user is a great feature for collaboration work.
+
+![More information](https://media.giphy.com/media/hTOBbJmE4MqY8DIeFM/giphy.gif)
 
 You could also check the amount of users you shared you notes with
 
-   ![More information](https://media.giphy.com/media/VdEBihMw9u0DZsSwhW/giphy.gif)
+![More information](https://media.giphy.com/media/VdEBihMw9u0DZsSwhW/giphy.gif)
 
 <br>
 
