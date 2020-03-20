@@ -21,6 +21,8 @@ To gain a better understaing of EverNote , this guide will help you through 4 co
 - Adding notes into a notebook
 - Editing and deleting notebook
 
+<br>
+
 ___
 
 <br>
@@ -28,6 +30,8 @@ ___
 ### Task 2 - Creating a Notebook for a semester
 
 Notebooks are used in EverNote to seperate main tasks. We will be going through how to create a new notebook, how to rename a notebook and how to delete a notebook.
+
+<br>
 
 ___
 
@@ -122,7 +126,7 @@ ___
     |:---: | :---: |
 | <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/MoreInformation.png" id="note"> | **Note**: This will display all of your notes added within the notebook.|
 
-<br>
+    <br>
 
 3. **Click** on the three dots button [···] under the ```ACTIONS``` section.
 
@@ -131,7 +135,7 @@ ___
     | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Warning.png" id="note"> | **Warning**: Once you delete the note, you cannot retrieve it.|
 
-<br>
+    <br>
 
 5. **Click** on the [Continue] button.
 
