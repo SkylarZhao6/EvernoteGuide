@@ -10,6 +10,8 @@ layout: nil
 
 ___
 
+<br>
+
 ## Introduction
 
 Using special functions in EverNote to expand your experiences with the app. This second part will help you through 4 common goals:
@@ -19,13 +21,21 @@ Using special functions in EverNote to expand your experiences with the app. Thi
 - Adding tags on your note for effecient filter search
 - Using the sort function to display your notebooks in order at your preference.
 
+<br>
+
 ___
+
+<br>
 
 #### Task 3 - Using different functions to improve to utilize Evernote
 
 Notebooks are usually used for personal note taking. However, Evernote has a feature where you can share notes with multiple users and multiple users can edit the note.
 
+<br>
+
 ___
+
+<br>
 
 #### Task 3.1 - Sharing your notes with another user
 
@@ -35,13 +45,21 @@ You could also check the amount of users you shared you notes with
 
 ![More information](https://media.giphy.com/media/VdEBihMw9u0DZsSwhW/giphy.gif)
 
+<br>
+
 ___
+
+<br>
 
 #### Task 3.2 - Making it shareable to every user with a link
 
 ![More information](https://media.giphy.com/media/WREsjBYlZ6maz8Ihua/giphy.gif)
 
+<br>
+
 ___
+
+<br>
 
 #### Task 3.3 - Using Table function
 
@@ -49,7 +67,7 @@ ___
 
 2. **Drag** your cursor to the [+] sign and **Click**
 
-| :---: | :---: |
+    | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/MoreInformation.png" id="note"> | **Note**: A drop down menu will appear.. |
 
 3. **Click** on the [table] icon
@@ -58,7 +76,11 @@ ___
 
 ![More Information](https://media.giphy.com/media/Jq7PNie5WfAoX7QJnB/giphy.gif)
 
+<br>
+
 ___
+
+<br>
 
 #### Task 3.4 - Using Divider function
 
@@ -72,7 +94,11 @@ This divider function will seperate your text into sections for better readabili
 
 ![More Information](https://media.giphy.com/media/QxGQKoCdNcm8ncZh40/giphy.gif)
 
+<br>
+
 ___
+
+<br>
 
 #### Task 3.5 - Using code block function
 
@@ -86,7 +112,11 @@ The code block function allows you to post code snippets for better readability.
 
 ![More Information](https://media.giphy.com/media/SskhcftptamsAVO5f1/giphy.gif)
 
+<br>
+
 ___
+
+<br>
 
 #### Task 3.6 - Adding tags for easier search
 
@@ -106,7 +136,11 @@ You will see a pop-out of all the tags you have made.
 
 ![More Information](https://media.giphy.com/media/TEuJji4lUGEjOtHRqu/giphy.gif)
 
+<br>
+
 ___
+
+<br>
 
 #### Task 3.7 - Using sort function to display to your preferences
 
@@ -122,7 +156,11 @@ In this example, I will be organizing my notes from "Least to most recent".
 
 ![More information](https://media.giphy.com/media/h2Z4fH47HGRVRrEX0K/giphy.gif)
 
+<br>
+
 ___
+
+<br>
 
 #### Task 3 Completetion
 
