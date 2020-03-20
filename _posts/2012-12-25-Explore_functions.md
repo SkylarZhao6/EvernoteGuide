@@ -39,11 +39,11 @@ ___
 
 #### Task 3.1 - Sharing your notes with another user
 
-![More information](https://media.giphy.com/media/hTOBbJmE4MqY8DIeFM/giphy.gif)
+    ![More information](https://media.giphy.com/media/hTOBbJmE4MqY8DIeFM/giphy.gif)
 
 You could also check the amount of users you shared you notes with
 
-![More information](https://media.giphy.com/media/VdEBihMw9u0DZsSwhW/giphy.gif)
+    ![More information](https://media.giphy.com/media/VdEBihMw9u0DZsSwhW/giphy.gif)
 
 <br>
 
@@ -53,7 +53,7 @@ ___
 
 #### Task 3.2 - Making it shareable to every user with a link
 
-![More information](https://media.giphy.com/media/WREsjBYlZ6maz8Ihua/giphy.gif)
+    ![More information](https://media.giphy.com/media/WREsjBYlZ6maz8Ihua/giphy.gif)
 
 <br>
 
@@ -70,11 +70,13 @@ ___
     | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/MoreInformation.png" id="note"> | **Note**: A drop down menu will appear.. |
 
+    <br>
+
 3. **Click** on the [table] icon
 
 4. **Hover** on the circle button to add more rows and columns
 
-![More Information](https://media.giphy.com/media/Jq7PNie5WfAoX7QJnB/giphy.gif)
+    ![More Information](https://media.giphy.com/media/Jq7PNie5WfAoX7QJnB/giphy.gif)
 
 <br>
 
@@ -92,7 +94,7 @@ This divider function will seperate your text into sections for better readabili
 
 3. **Click** on the [Divider] icon
 
-![More Information](https://media.giphy.com/media/QxGQKoCdNcm8ncZh40/giphy.gif)
+    ![More Information](https://media.giphy.com/media/QxGQKoCdNcm8ncZh40/giphy.gif)
 
 <br>
 
@@ -110,7 +112,7 @@ The code block function allows you to post code snippets for better readability.
 
 3. **Click** on the [Code Block] button
 
-![More Information](https://media.giphy.com/media/SskhcftptamsAVO5f1/giphy.gif)
+    ![More Information](https://media.giphy.com/media/SskhcftptamsAVO5f1/giphy.gif)
 
 <br>
 
@@ -126,7 +128,7 @@ Tag names on your notes are important for fast searching specific notes.
 
 2. **Insert** desired tag name for the note.
 
-![More Information](https://media.giphy.com/media/lp8G2E9paNj4wEQBk0/giphy.gif)
+    ![More Information](https://media.giphy.com/media/lp8G2E9paNj4wEQBk0/giphy.gif)
 
 3. **Click** on the [Tags] button on the side bar.
 
@@ -134,7 +136,7 @@ You will see a pop-out of all the tags you have made.
 
 4. **Click** on the desired tag name and the note will pop out.
 
-![More Information](https://media.giphy.com/media/TEuJji4lUGEjOtHRqu/giphy.gif)
+    ![More Information](https://media.giphy.com/media/TEuJji4lUGEjOtHRqu/giphy.gif)
 
 <br>
 
@@ -154,7 +156,7 @@ In this example, I will be organizing my notes from "Least to most recent".
 
 3. **Click** on [Date created: Least to most recent]
 
-![More information](https://media.giphy.com/media/h2Z4fH47HGRVRrEX0K/giphy.gif)
+    ![More information](https://media.giphy.com/media/h2Z4fH47HGRVRrEX0K/giphy.gif)
 
 <br>
 
