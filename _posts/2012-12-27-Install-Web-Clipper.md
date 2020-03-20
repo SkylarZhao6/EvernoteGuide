@@ -1,28 +1,26 @@
 ---
 category: Stuff
 path: '/stuff'
-title: 'Installing Web Clipper'
+title: 'Installing and utilizing Web Clipper'
 
 layout: nil
 ---
 
-# Guide in installing and using Evernote Web Clipper
+# Installing and utilizing Evernote Web Clipper
 
-Evernote Web Clipper is a browser extension that, available for Chrome, Safari, Internet Explorer (IE) 7+, Firefox, Opera, and Microsoft Edge (for Windows 10 or higher). You can use it to save things on the web into your Evernote account. It works like a bookmark but owns more advanced functions.
+This section will show you the steps to install Web Clipper as an extension on your browser and utilize it on a webpage with its features.
 
-This section will show you the steps to install Web Clipper on your browser and utilize it on a webpage with its features.
+__Note__: Web Clipper is only available for Chrome, Safari, Internet Explorer (IE) 7+, Firefox, Opera, and Microsoft Edge (for Windows 10 or higher).
 
 ## Install Web Clipper
 
-1. Find **Install Web Clipper** on Evernote
+1. Go to Evernote on a web browser.
 
-   Log into Evernote on a web browser, click **Get Started** at the left, bottom corner of the screen. You will see **"Install Web Clipper"** in the list.
+2. Click **Get Started** at the left, bottom corner. You will see **Install Web Clipper** in the list, click it.
 
    <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/getstarted.png?raw=true" id="getStart">
 
-2. Install Web Clipper
-
-   Click **Get Web Clipper** on the page you will be redirected into.
+3. Click **Get Web Clipper** on the new page.
 
    <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/getclipper.png?raw=true">
 
@@ -36,9 +34,9 @@ Click the green elephant logo on the top tool bar. It will generate a list and c
 
 <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/featurelist.png?raw=true" id="featureList">
 
-## Choose a format
+### Choose clip format
 
-On the **Clip format** section of the list, you will have five options to display the current web page:
+In the **Clip format** section of the list, you will have five options to display the current web page:
 
 - **Simplified article**, **Article** and **Full page**:
 
@@ -46,13 +44,13 @@ On the **Clip format** section of the list, you will have five options to displa
 
 - **Bookmark**:
 
-  This format will generate a bookmark in the center of the screen with the title, logo, link and description of  __The New York Times__.
+  This format will generate a bookmark in the center of the screen with the title, logo, URL and description of  __The New York Times__. The feature list will stay the same.
 
   <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/bookmark.png?raw=true">
 
 - **Screenshot**:
 
-  You will be able to move mouse around and select any area on the web page to capture things.
+  You will have a view as the picture below, you will be able to select any area on the web page to capture things.
 
   <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/screenshot.png?raw=true">
 
@@ -60,13 +58,13 @@ On the **Clip format** section of the list, you will have five options to displa
 
 ### Save clip into Evernote
 
-Once the decision on **Clip format** has been made, you can save your clip into your Evernote notebook by clicking the green **Save clip** button on the top of the Web Clipper list. You will be redirected to Evernote main page with the clip.
+Once the decision on **Clip format** has been made, save the clip into your Evernote notebook by clicking the green **Save clip** button on the top. You will be redirected to Evernote main page with the clip.
 
 <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/saveclip.png?raw=true">
 
 ### Save clip into certain notebook
 
-The bottom half section is **Organization** will help you to save the operations on a clip into a certain notebook:
+The **Organization** section will save your operations on the clip into a certain notebook:
 
 - Select a notebook from **My Notebook**:
 
@@ -74,14 +72,14 @@ The bottom half section is **Organization** will help you to save the operations
 
   <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/myNotebook.png?raw=true" id="notebook">
 
-  1. Type in keywords of a notebook in **Find...**.
+  1. Enter keywords of a notebook to search in **Find...**.
 
-  2. Use the function **Clip to a new notebook**, and create a new notebook of your choice.
+  2. Click **Clip to a new notebook**, and create a new notebook of your choice.
 
   3. Choose one from the existing notebooks that been displayed under **Notebooks**.
 
 - Add tags and remarks:
 
-  Enter text into the tag or remark input bar, they will be saved with the clip into your chose notebook.
+  Enter text into the tag or remark input bar, they will be saved with the clip into your chosen notebook.
 
   <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/tagRemark.png?raw=true" id="tags">
