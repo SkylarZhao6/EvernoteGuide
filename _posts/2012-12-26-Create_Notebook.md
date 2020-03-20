@@ -10,6 +10,8 @@ layout: nil
 
 ___
 
+<br>
+
 ## Instructions
 
 To gain a better understaing of EverNote , this guide will help you through 4 common tasks:
@@ -21,11 +23,15 @@ To gain a better understaing of EverNote , this guide will help you through 4 co
 
 ___
 
+<br>
+
 ### Task 2 - Creating a Notebook for a semester
 
 Notebooks are used in EverNote to seperate main tasks. We will be going through how to create a new notebook, how to rename a notebook and how to delete a notebook.
 
 ___
+
+<br>
 
 #### Task 2.1 - Create a new Notebook
 
@@ -41,8 +47,11 @@ ___
 
     ![More Information](https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Task2.1.3.png "Confirm new notebook")
 
+<br>
+
 ___
 
+<br>
 #### Task 2.2 - Renaming a Notebook
 
 1. **Click** on the NoteBook on your side bar to check all notebooks.
@@ -57,7 +66,11 @@ ___
 
     ![Alt Text](https://camo.githubusercontent.com/286e1fcebde431e2e1a9738db7b24446221c7f9c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f59523246704c44485170556365796a327a502f67697068792e676966)
 
+<br>
+
 ___
+
+<br>
 
 #### Task 2.3 - Deleting a Notebook
 
@@ -69,7 +82,11 @@ ___
 
     ![Alt Text](https://camo.githubusercontent.com/d33f7bfb73a956420aefbfd2029f80312fad9c41/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5752466c31635a6c7735656a4230446453522f67697068792e676966)
 
+<br>
+
 ___
+
+<br>
 
 #### Task 2.4 - Adding a note to the notebook you created
 
@@ -81,7 +98,8 @@ ___
 
     | :---: | :---: |
     | <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/MoreInformation.png" id="note"> |     **Note**: Avoid the downward arrow beside the [+ New Note] button for now. |
-
+    
+    <br>
 
     ![Alt Text](https://camo.githubusercontent.com/191ee927e6166a6ffe5c3f5b689cea8d7798926a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6947764f496d506b6f4d69756a50715976452f67697068792e676966)
 
@@ -89,7 +107,11 @@ ___
 
     <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Task2.4.1.png" id="task2_4">
 
+<br>
+
 ___
+
+<br>
 
 #### Task 2.5 - Deleting the note on a specific notebook
 
@@ -100,6 +122,7 @@ ___
     |:---: | :---: |
 | <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/MoreInformation.png" id="note"> | **Note**: This will display all of your notes added within the notebook.|
 
+<br>
 
 3. **Click** on the three dots button [···] under the ```ACTIONS``` section.
 
@@ -108,13 +131,16 @@ ___
     | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Warning.png" id="note"> | **Warning**: Once you delete the note, you cannot retrieve it.|
 
+<br>
 
 5. **Click** on the [Continue] button.
 
     ![Alt Text](https://camo.githubusercontent.com/01896b7fb3bec8f4572af6c27b57e8557a6b0ea6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4b654569316c4153456f47587638543247652f67697068792e676966)
+<br>
 
 ___
 
+<br>
 #### Task 2 - Completion Checklist
 
 We have completed our first task of creating notebook and editing its properties. We then created notes inside the notebook. You should be ready to create your own organized notebook.
