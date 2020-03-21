@@ -8,8 +8,6 @@ layout: nil
 
 # Guide in discovering and searching for templates
 
-<br>
-
 ___
 
 <br>
@@ -38,7 +36,9 @@ ___
 
 ## Discover template options
 
-To discover all of the existing templates, you will click the green, oval button with **New Note** in the left side bar. The button is split into two parts, it supports two different methods for you to view the templates.
+To discover all of the existing templates, you will click the green, oval button with **New Note** in the left side bar.
+
+The button is split into two parts, it supports two different methods for you to view the templates.
 
 <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/newnote.png?raw=true" id="newnote">
 
@@ -94,9 +94,11 @@ ___
 
    - Search by keywords
 
-     On the top, right corner, type "menu" in the input bar. The results will be generated in both **Template Gallery** and **My Templates**.
+     On the top, right corner, type "menu" in the input bar. 
+     
+     The results will be generated in both **Template Gallery** and **My Templates**.
 
-      <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/searchmenu.png?raw=true" id="search">
+     <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/searchmenu.png?raw=true" id="search">
       
 <br>
 
@@ -106,7 +108,7 @@ ___
 
    - Select by categories
 
-     Click "For Life" in **collections** or "Home and Garden" in **categories**, the templates based on it will be displayed at the right side of the screen.
+     Click "For Life" in **collections** or "Home and Garden" in **categories**, the templates based on these categories will be displayed at the right side of the screen.
 
      <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/category.png?raw=true" id="category">
  
