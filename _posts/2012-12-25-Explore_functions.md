@@ -84,7 +84,7 @@ ___
 
 Instead of adding each user manually, there is a function where you can share your notes through a link. Users that click on that link will automatically have access to your notes.
 
-1. **Click** on [Share]
+1. **Click** on [Share].
 
     <br>
     
@@ -93,7 +93,7 @@ Instead of adding each user manually, there is a function where you can share yo
 
     <br>
 
-2. Enable this feature by **Clicking** on the slider beside ````Shareable link````
+2. Enable this feature by **Clicking** on the slider beside ````Shareable link````.
 
     <br>
     
@@ -102,7 +102,7 @@ Instead of adding each user manually, there is a function where you can share yo
 
     <br>
 
-3. **Highlight** the link and **click** [Copy link]
+3. **Highlight** the link and **click** [Copy link].
 
    ![More information](https://media.giphy.com/media/WREsjBYlZ6maz8Ihua/giphy.gif)
 
