@@ -8,9 +8,23 @@ layout: nil
 
 # Installing and utilizing Evernote Web Clipper
 
-This section will show you the steps to install Web Clipper as an extension on your browser and utilize it on a webpage with its features.
+___
 
-__Note__: Web Clipper is only available for Chrome, Safari, Internet Explorer (IE) 7+, Firefox, Opera, and Microsoft Edge (for Windows 10 or higher).
+<br>
+
+This section will show you:
+
+- Steps to install Web Clipper as an extension on browser 
+
+- Utilize it on a webpage with its features
+
+| <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/MoreInformation.png" id="note"> | **Note**: Web Clipper is only available for Chrome, Safari, Internet Explorer (IE) 7+, Firefox, Opera, and Microsoft Edge (for Windows 10 or higher)|
+
+<br>
+
+___
+
+<br>
 
 ## Install Web Clipper
 
@@ -26,6 +40,12 @@ __Note__: Web Clipper is only available for Chrome, Safari, Internet Explorer (I
 
    Confirm to install Web Clipper on your current web browser, then you will successfully have it as an extension.
 
+<br>
+
+___
+
+<br>
+
 ## Utilize Web Clipper
 
 We will show you how to apply Web Clipper's main features on __The New York Times__ and use __Google Chrome__ as an example.
@@ -33,6 +53,12 @@ We will show you how to apply Web Clipper's main features on __The New York Time
 Click the green elephant logo on the top tool bar. It will generate a list and change the web page format to **Simplified article** by default.
 
 <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/featurelist.png?raw=true" id="featureList">
+
+<br>
+
+___
+
+<br>
 
 ### Choose clip format
 
@@ -56,11 +82,23 @@ In the **Clip format** section of the list, you will have five options to displa
 
   The list of Web Clipper will change into an editing board. You will have the tools to edit the screenshot such as highlighting and adding text.
 
+<br>
+
+___
+
+<br>
+
 ### Save clip into Evernote
 
 Once the decision on **Clip format** has been made, save the clip into your Evernote notebook by clicking the green **Save clip** button on the top. You will be redirected to Evernote main page with the clip.
 
 <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/saveclip.png?raw=true">
+
+<br>
+
+___
+
+<br>
 
 ### Save clip into certain notebook
 
@@ -77,6 +115,12 @@ The **Organization** section will save your operations on the clip into a certai
   2. Click **Clip to a new notebook**, and create a new notebook of your choice.
 
   3. Choose one from the existing notebooks that been displayed under **Notebooks**.
+
+    <br>
+
+    ___
+
+    <br>
 
 - Add tags and remarks:
 
