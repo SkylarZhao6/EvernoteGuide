@@ -100,41 +100,29 @@ ___
 
      <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/searchmenu.png?raw=true" id="search">
       
-<br>
-
-___
-
-<br>
-
    - Select by categories
 
      Click "For Life" in **collections** or "Home and Garden" in **categories**, the templates based on these categories will be displayed at the right side of the screen.
 
      <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/category.png?raw=true" id="category">
- 
-<br>
-
-___
-
-<br>
 
    - Search keywords in certain category
 
      This method combines the previous two ways.
 
-     1. Enter "menu"
-
-     2. Select one option either in collections or categories
+    1. Enter "menu" in the top, right input bar
+     
+    2. Select one option from collections or categories
 
      <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/menuresult.png?raw=true" id="result">
 
 | <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Warning.png" id="note"> | **Note**: The order does not matter. |
-    
-<br>
 
-___
+    <br>
 
-<br>
+    ___
+
+    <br>
 
 2. Start using **Menu Planning**
 
