@@ -1,12 +1,12 @@
 ---
 category: Stuff
 path: '/stuff'
-title: 'Creating a notebook for planning'
+title: 'Creating a Notebook for Planning'
 
 layout: nil
 ---
 
-# Guide in creating a notebook with organized notes
+# Guide in Creating a Notebook with Organized Notes
 
 ___
 
@@ -14,7 +14,7 @@ ___
 
 ## Instructions
 
-To gain a better understaing of EverNote , this guide will help you through 4 common tasks:
+To gain a better understaing of Evernote , this guide will help you through 4 common tasks:
 
 - Creating a new notebook
 - Editing and deleting notebook
@@ -27,9 +27,9 @@ ___
 
 <br>
 
-### Task 2 - Creating a Notebook for a semester
+### Task 2 - Creating a Notebook for a Semester
 
-Notebooks are used in EverNote to seperate main tasks. We will be going through how to create a new notebook, how to rename a notebook and how to delete a notebook.
+Notebooks are used in Evernote to seperate main tasks. We will be going through how to create a new notebook, how to rename a notebook and how to delete a notebook.
 
 <br>
 
@@ -37,9 +37,9 @@ ___
 
 <br>
 
-#### Task 2.1 - Create a new Notebook
+#### Task 2.1 - Create a New Notebook
 
-1. **Click** on the NoteBook on your side bar to check all notebooks.
+1. **Click** on the notebook on your side bar to check all notebooks.
 
     <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Task2.1.1.png" id="task2_1">
 
@@ -58,7 +58,7 @@ ___
 <br>
 #### Task 2.2 - Renaming a Notebook
 
-1. **Click** on the NoteBook on your side bar to check all notebooks.
+1. **Click** on the notebook on your side bar to check all notebooks.
 
 2. **Click** on the three dots button [···] under the ```ACTIONS``` section.
 
@@ -78,7 +78,7 @@ ___
 
 #### Task 2.3 - Deleting a Notebook
 
-1. **Click** on the NoteBook on your side bar to check all notebooks.
+1. **Click** on the Notebook on your side bar to check all notebooks.
 
 2. **Click** on the three dots button [···] under the ```ACTIONS``` section.
 
@@ -92,11 +92,11 @@ ___
 
 <br>
 
-#### Task 2.4 - Adding a note to the notebook you created
+#### Task 2.4 - Adding a Note to the Notebook you Created
 
-1. **Click** on the NoteBook on your side bar to check all notebooks.
+1. **Click** on the Notebook on your side bar to check all notebooks.
 
-2. **Click** on the NoteBook you want to add your notes in.
+2. **Click** on the Notebook you want to add your notes in.
 
 3. **Click** on the [+ New Note] button
 
@@ -107,7 +107,7 @@ ___
 
     ![Alt Text](https://camo.githubusercontent.com/191ee927e6166a6ffe5c3f5b689cea8d7798926a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6947764f496d506b6f4d69756a50715976452f67697068792e676966)
 
-4. **Insert** a title name and start inputing notes under the title
+4. **Insert** a title name and start inputting notes under the title
 
     <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Task2.4.1.png" id="task2_4">
 
@@ -117,9 +117,9 @@ ___
 
 <br>
 
-#### Task 2.5 - Deleting the note on a specific notebook
+#### Task 2.5 - Deleting the Note on a Specific Notebook
 
-1. **Click** on the NoteBook on your side bar to check all notebooks.
+1. **Click** on the Notebook on your side bar to check all notebooks.
 
 2. Beside the name of your notebook, **click** on the play button.
 
