@@ -61,13 +61,13 @@ Sharing your notes with another user is a great feature for collaboration work.
 
 ![More information](https://media.giphy.com/media/hTOBbJmE4MqY8DIeFM/giphy.gif)
 
-    You could also check the amount of users you shared you notes with to prevent unknown users accessing your notes.
+   You could also check the amount of users you shared you notes with to prevent unknown users accessing your notes.
 
 5. **Click** on [Share] and **click** [Who has access]
 
 ![More information](https://media.giphy.com/media/VdEBihMw9u0DZsSwhW/giphy.gif)
 
-    From here, you can remove users from seeing your notes or keep track of users who have access to your notes.
+   From here, you can remove users from seeing your notes or keep track of users who have access to your notes.
     
 <br>
 
