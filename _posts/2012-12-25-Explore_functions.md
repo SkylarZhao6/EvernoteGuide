@@ -69,6 +69,8 @@ Sharing your notes with another user is a great feature for collaboration work.
 
     From here, you can remove users from seeing your notes or keep track of users who have access to your notes.
     
+    <br>
+    
     | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Warning.png" id="note"> | **Warning**: Once you remove a user, you will need to add their email again.|
     
