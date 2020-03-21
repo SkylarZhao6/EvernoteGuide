@@ -82,6 +82,24 @@ ___
 
 #### Task 3.2 - Making it Shareable to Every User with a Link
 
+Instead of adding each user manually, there is a function where you can share your notes through a link. Users that click on that link will automatically have access to your notes.
+
+1. **Click** on [Share]
+
+<br>
+    | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/MoreInformation.png" id="note"> | **Note**: A modal called "Shared Notes" will appear so you can invite other users. |
+    <br>
+
+2. Enable this feature by **Clicking** on the slider beside ````Shareable link````
+
+<br>
+    | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/MoreInformation.png" id="note"> | **Note**: After you **click** on the slider, a [Copy link] button will appear on the top right side of the modal. |
+    <br>
+
+3. **Highlight** the link and **click** [Copy link]
+
    ![More information](https://media.giphy.com/media/WREsjBYlZ6maz8Ihua/giphy.gif)
 
 <br>
