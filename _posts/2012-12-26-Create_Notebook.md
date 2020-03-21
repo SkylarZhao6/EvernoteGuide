@@ -6,7 +6,7 @@ title: 'Creating a Notebook for Planning'
 layout: nil
 ---
 
-# Guide in Creating a Notebook with Organized Notes
+# Guide In Creating A Notebook With Organized Notes
 
 ___
 
@@ -58,7 +58,7 @@ ___
 <br>
 #### Task 2.2 - Renaming a Notebook
 
-1. **Click** on the notebook on your side bar to check all notebooks.
+1. **Click** on the [Notebook] on your side bar to check all notebooks.
 
 2. **Click** on the three dots button [···] under the ```ACTIONS``` section.
 
@@ -78,7 +78,7 @@ ___
 
 #### Task 2.3 - Deleting a Notebook
 
-1. **Click** on the Notebook on your side bar to check all notebooks.
+1. **Click** on the [Notebook] on your side bar to check all notebooks.
 
 2. **Click** on the three dots button [···] under the ```ACTIONS``` section.
 
@@ -94,9 +94,9 @@ ___
 
 #### Task 2.4 - Adding a Note to the Notebook you Created
 
-1. **Click** on the Notebook on your side bar to check all notebooks.
+1. **Click** on the [Notebook] on your side bar to check all notebooks.
 
-2. **Click** on the Notebook you want to add your notes in.
+2. **Click** on the [Notebook] you want to add your notes in.
 
 3. **Click** on the [+ New Note] button
 
@@ -119,7 +119,7 @@ ___
 
 #### Task 2.5 - Deleting the Note on a Specific Notebook
 
-1. **Click** on the Notebook on your side bar to check all notebooks.
+1. **Click** on the [Notebook] on your side bar to check all notebooks.
 
 2. Beside the name of your notebook, **click** on the play button.
 
@@ -133,7 +133,7 @@ ___
 4. **Click** on the [Delete note] button
 
     | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Warning.png" id="note"> | **Warning**: Once you delete the note, you cannot retrieve it.|
+| <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Warning.png" id="note"> | **Warning**: Once you delete the note, it will disappear in your notebooks.|
 
     <br>
 
