@@ -41,6 +41,24 @@ ___
 
 Sharing your notes with another user is a great feature for collaboration work.
 
+1. **Click** on the current note you want to share.
+
+2. **Click** on the [Share] button.
+
+    | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/MoreInformation.png" id="note"> | **Note**: A modal called "Shared Notes" will appear so you can invite other users. |
+
+<br>
+
+3. **Insert** the email of user you want to share your notes.
+
+4. **Click** [Send Invitation].
+
+    | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/MoreInformation.png" id="note"> | **Note**: The modal will disappear after you **click** [Send Invitation] and return back to your notes page. |
+
+<br>
+
 ![More information](https://media.giphy.com/media/hTOBbJmE4MqY8DIeFM/giphy.gif)
 
 You could also check the amount of users you shared you notes with to prevent unknown users accessing your notes.
@@ -146,7 +164,7 @@ ___
 
 <br>
 
-#### Task 3.7 - Using sort function to display to your preferences
+#### Task 3.7 - Using Sort Function to Display to your Preferences
 
 This function will display all your notes according to your preferences.
 For example, you could view all your notes from "Most to least recent" or "Least to most recent".
