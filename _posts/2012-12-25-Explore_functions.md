@@ -67,6 +67,8 @@ Sharing your notes with another user is a great feature for collaboration work.
 
 ![More information](https://media.giphy.com/media/VdEBihMw9u0DZsSwhW/giphy.gif)
 
+    From here, you can remove users from seeing your notes or keep track of users who have access to your notes.
+    
 <br>
 
 ___
