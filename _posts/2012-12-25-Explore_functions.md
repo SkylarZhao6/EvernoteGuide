@@ -17,7 +17,7 @@ ___
 Using special functions in EverNote to expand your experiences with the app. This second part will help you through 4 common goals:
 
 - Sharing your notes with another person
-- Inserting functions like Table, Divider and code blocks
+- Inserting functions like Table, Divider and Code Blocks
 - Adding tags on your note for effecient filter search
 - Using the sort function to display your notebooks in order at your preference
 
