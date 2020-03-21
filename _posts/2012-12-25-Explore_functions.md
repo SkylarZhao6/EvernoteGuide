@@ -94,7 +94,7 @@ ___
 
 1. **Click** on the note page where you want to insert your table.
 
-2. **Drag** your cursor to the [+] sign and **Click**
+2. **Drag** your cursor to the [+] sign and **Click**.
 
     | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/MoreInformation.png" id="note"> | **Note**: A drop down menu will appear. |
