@@ -39,7 +39,7 @@ ___
 
 #### Task 2.1 - Create a New Notebook
 
-1. **Click** on the notebook on your side bar to check all notebooks.
+1. **Click** on the [Notebook] on your side bar to check all notebooks.
 
     <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Task2.1.1.png" id="task2_1">
 
