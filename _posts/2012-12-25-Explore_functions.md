@@ -1,12 +1,12 @@
 ---
 category: Stuff
 path: '/stuff/:id'
-title: 'Exploring functions'
+title: 'Exploring Functions'
 
 layout: nil
 ---
 
-# Explore functions such as “Share with me, tags and shortcut”
+# Explore Functions Such As Share With Me, Tags And Shortcut
 
 ___
 
@@ -17,9 +17,9 @@ ___
 Using special functions in EverNote to expand your experiences with the app. This second part will help you through 4 common goals:
 
 - Sharing your notes with another person
-- Inserting functions like Table, Divider and code blocks.
+- Inserting functions like Table, Divider and code blocks
 - Adding tags on your note for effecient filter search
-- Using the sort function to display your notebooks in order at your preference.
+- Using the sort function to display your notebooks in order at your preference
 
 <br>
 
@@ -27,7 +27,7 @@ ___
 
 <br>
 
-#### Task 3 - Using different functions to improve to utilize Evernote
+#### Task 3 - Using Different Functions to Improve to Utilize Evernote
 
 Notebooks are usually used for personal note taking. However, Evernote has a feature where you can share notes with multiple users and multiple users can edit the note.
 
@@ -37,13 +37,13 @@ ___
 
 <br>
 
-#### Task 3.1 - Sharing your notes with another user
+#### Task 3.1 - Sharing your Notes with Another User
 
 Sharing your notes with another user is a great feature for collaboration work.
 
 ![More information](https://media.giphy.com/media/hTOBbJmE4MqY8DIeFM/giphy.gif)
 
-You could also check the amount of users you shared you notes with
+You could also check the amount of users you shared you notes with to prevent unknown users accessing your notes.
 
 ![More information](https://media.giphy.com/media/VdEBihMw9u0DZsSwhW/giphy.gif)
 
@@ -53,7 +53,7 @@ ___
 
 <br>
 
-#### Task 3.2 - Making it shareable to every user with a link
+#### Task 3.2 - Making it Shareable to Every User with a Link
 
    ![More information](https://media.giphy.com/media/WREsjBYlZ6maz8Ihua/giphy.gif)
 
@@ -63,20 +63,20 @@ ___
 
 <br>
 
-#### Task 3.3 - Using Table function
+#### Task 3.3 - Using Table Function
 
 1. **Click** on the note page where you want to insert your table.
 
 2. **Drag** your cursor to the [+] sign and **Click**
 
     | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/MoreInformation.png" id="note"> | **Note**: A drop down menu will appear.. |
+| <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/MoreInformation.png" id="note"> | **Note**: A drop down menu will appear. |
 
     <br>
 
-3. **Click** on the [table] icon
+3. **Click** on the [table] icon.
 
-4. **Hover** on the circle button to add more rows and columns
+4. **Hover** on the circle button to add more rows and columns.
 
     ![More Information](https://media.giphy.com/media/Jq7PNie5WfAoX7QJnB/giphy.gif)
 
@@ -90,11 +90,11 @@ ___
 
 This divider function will seperate your text into sections for better readability.
 
-1. **Click** on the note page where you want to insert your divider
+1. **Click** on the note page where you want to insert your divider.
 
-2. **Drag** your cursor to the [+] sign and **Click**
+2. **Drag** your cursor to the [+] sign and **Click**.
 
-3. **Click** on the [Divider] icon
+3. **Click** on the [Divider] icon.
 
     ![More Information](https://media.giphy.com/media/QxGQKoCdNcm8ncZh40/giphy.gif)
 
@@ -108,11 +108,11 @@ ___
 
 The code block function allows you to post code snippets for better readability.
 
-1. **Click** on the note page where you want to insert your code block
+1. **Click** on the note page where you want to insert your code block.
 
-2. **Drag** your cursor to the [+] sign and **Click**
+2. **Drag** your cursor to the [+] sign and **Click**.
 
-3. **Click** on the [Code Block] button
+3. **Click** on the [Code Block] button.
 
     ![More Information](https://media.giphy.com/media/SskhcftptamsAVO5f1/giphy.gif)
 
@@ -154,9 +154,9 @@ In this example, I will be organizing my notes from "Least to most recent".
 
 1. **Click** on the Notebooks section located on the left side of the navigation bar.
 
-2. **Click** on the icon beside [New Notebook]
+2. **Click** on the icon beside [New Notebook].
 
-3. **Click** on [Date created: Least to most recent]
+3. **Click** on [Date created: Least to most recent].
 
     ![More information](https://media.giphy.com/media/h2Z4fH47HGRVRrEX0K/giphy.gif)
 
