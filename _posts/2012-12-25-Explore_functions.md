@@ -48,7 +48,7 @@ Sharing your notes with another user is a great feature for collaboration work.
     | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/MoreInformation.png" id="note"> | **Note**: A modal called "Shared Notes" will appear so you can invite other users. |
 
-<br>
+    <br>
 
 3. **Insert** the email of user you want to share your notes.
 
@@ -57,7 +57,7 @@ Sharing your notes with another user is a great feature for collaboration work.
     | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/MoreInformation.png" id="note"> | **Note**: The modal will disappear after you **click** [Send Invitation] and return back to your notes page. |
 
-<br>
+    <br>
 
 ![More information](https://media.giphy.com/media/hTOBbJmE4MqY8DIeFM/giphy.gif)
 
