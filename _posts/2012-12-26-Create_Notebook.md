@@ -43,7 +43,7 @@ ___
 
     <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Task2.1.1.png" id="task2_1">
 
-2. **Click** [New Notebooks] icon to create a new notebook.
+2. **Click** [New Notebook] icon to create a new notebook.
 
     ![More Information](https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Task2.1.2.png "Add new notebook")
 
