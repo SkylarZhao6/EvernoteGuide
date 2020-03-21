@@ -82,7 +82,7 @@ ___
 
 2. **Click** on the three dots button [···] under the ```ACTIONS``` section.
 
-3. **Click** on the [Delete notebook] button
+3. **Click** on the [Delete notebook] button.
 
     ![Alt Text](https://camo.githubusercontent.com/d33f7bfb73a956420aefbfd2029f80312fad9c41/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5752466c31635a6c7735656a4230446453522f67697068792e676966)
 
@@ -98,7 +98,7 @@ ___
 
 2. **Click** on the [Notebook] you want to add your notes in.
 
-3. **Click** on the [+ New Note] button
+3. **Click** on the [+ New Note] button.
 
     | :---: | :---: |
     | <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/MoreInformation.png" id="note"> |     **Note**: Avoid the downward arrow beside the [+ New Note] button for now. |
@@ -107,7 +107,7 @@ ___
 
     ![Alt Text](https://camo.githubusercontent.com/191ee927e6166a6ffe5c3f5b689cea8d7798926a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6947764f496d506b6f4d69756a50715976452f67697068792e676966)
 
-4. **Insert** a title name and start inputting notes under the title
+4. **Insert** a title name and start inputting notes under the title.
 
     <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Task2.4.1.png" id="task2_4">
 
@@ -130,7 +130,7 @@ ___
 
 3. **Click** on the three dots button [···] under the ```ACTIONS``` section.
 
-4. **Click** on the [Delete note] button
+4. **Click** on the [Delete note] button.
 
     | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Warning.png" id="note"> | **Warning**: Once you delete the note, it will disappear in your notebooks.|
