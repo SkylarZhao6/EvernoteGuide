@@ -86,16 +86,20 @@ Instead of adding each user manually, there is a function where you can share yo
 
 1. **Click** on [Share]
 
-<br>
+    <br>
+    
     | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/MoreInformation.png" id="note"> | **Note**: A modal called "Shared Notes" will appear so you can invite other users. |
+
     <br>
 
 2. Enable this feature by **Clicking** on the slider beside ````Shareable link````
 
-<br>
+    <br>
+    
     | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/MoreInformation.png" id="note"> | **Note**: After you **click** on the slider, a [Copy link] button will appear on the top right side of the modal. |
+
     <br>
 
 3. **Highlight** the link and **click** [Copy link]
