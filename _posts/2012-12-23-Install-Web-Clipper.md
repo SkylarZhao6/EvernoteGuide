@@ -1,6 +1,6 @@
 ---
-category: Stuff
-path: '/stuff'
+category: Task
+path: '/task'
 title: 'Installing and utilizing Web Clipper'
 
 layout: nil
