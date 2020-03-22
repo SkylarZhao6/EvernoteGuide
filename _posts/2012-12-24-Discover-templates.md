@@ -22,7 +22,7 @@ ___
 
 <br>
 
-### Task 3 - Discovering Note Templetas and Search Template in Gallery
+### Task 4 - Discovering Note Templetas and Search Template in Gallery
 
 Evernote templates various from multiple purpose planners to trackers in different circumstances. This section will show you find the most suitable note template among the gallery.
 
@@ -32,7 +32,7 @@ ___
 
 <br>
 
-### Task 3.1 - Discovering Template Options
+### Task 4.1 - Discovering Template Options
 
 To discover all of the existing templates, you will click the green, oval button with **New Note** in the left side bar.
 
@@ -75,7 +75,7 @@ ___
 
 <br>
 
-### Task 3.2 - Search in Template Gallery
+### Task 4.2 - Search in Template Gallery
 
 This task will show you the steps to find a template by using **Menu Planning** as example:
 
