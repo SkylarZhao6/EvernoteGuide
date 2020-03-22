@@ -27,7 +27,7 @@ ___
 
 <br>
 
-#### Task 3 - Using Different Functions to Improve to Utilize Evernote
+### Task 3 - Using Different Functions to Improve to Utilize Evernote
 
 Notebooks are usually used for personal note taking. However, Evernote has a feature where you can share notes with multiple users and multiple users can edit the note.
 
@@ -37,7 +37,7 @@ ___
 
 <br>
 
-#### Task 3.1 - Sharing your Notes with Another User
+### Task 3.1 - Sharing your Notes with Another User
 
 Sharing your notes with another user is a great feature for collaboration work.
 
@@ -80,7 +80,7 @@ ___
 
 <br>
 
-#### Task 3.2 - Making it Shareable to Every User with a Link
+### Task 3.2 - Making it Shareable to Every User with a Link
 
 Instead of adding each user manually, there is a function where you can share your notes through a link. Users that click on that link will automatically have access to your notes.
 
@@ -112,7 +112,7 @@ ___
 
 <br>
 
-#### Task 3.3 - Using Table Function
+### Task 3.3 - Using Table Function
 
 1. **Click** on the note page where you want to insert your table.
 
@@ -135,7 +135,7 @@ ___
 
 <br>
 
-#### Task 3.4 - Using Divider function
+### Task 3.4 - Using Divider function
 
 This divider function will seperate your text into sections for better readability.
 
@@ -153,7 +153,7 @@ ___
 
 <br>
 
-#### Task 3.5 - Using code block function
+### Task 3.5 - Using code block function
 
 The code block function allows you to post code snippets for better readability.
 
@@ -171,7 +171,7 @@ ___
 
 <br>
 
-#### Task 3.6 - Adding tags for easier search
+### Task 3.6 - Adding tags for easier search
 
 Tag names on your notes are important for fast searching specific notes.
 
@@ -195,7 +195,7 @@ ___
 
 <br>
 
-#### Task 3.7 - Using Sort Function to Display to your Preferences
+### Task 3.7 - Using Sort Function to Display to your Preferences
 
 This function will display all your notes according to your preferences.
 For example, you could view all your notes from "Most to least recent" or "Least to most recent".
@@ -215,6 +215,6 @@ ___
 
 <br>
 
-#### Task 3 Completetion
+### Task 3 Completetion
 
 We have completed our third task of using special functions and editing its properties. Furthurmore, we learned different platforms when creating notes such as code blocks and tables. You should be ready to create your own notes with added tags and sharing them with others.
