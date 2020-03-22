@@ -1,5 +1,5 @@
 ---
-Path: '/task/'
+Path: '/Help'
 title: Troubleshooting
 layout: nil
 ---
