@@ -1,6 +1,6 @@
 ---
-category: Stuff
-path: '/stuff/:id'
+category: Task
+path: '/task/:id'
 title: 'Exploring Functions'
 
 layout: nil
