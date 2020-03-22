@@ -37,7 +37,7 @@ ___
 
 <br>
 
-#### Task 2.1 - Create a New Notebook
+### Task 2.1 - Create a New Notebook
 
 1. **Click** on the [Notebook] on your side bar to check all notebooks.
 
@@ -56,7 +56,7 @@ ___
 ___
 
 <br>
-#### Task 2.2 - Renaming a Notebook
+### Task 2.2 - Renaming a Notebook
 
 1. **Click** on the [Notebook] on your side bar to check all notebooks.
 
@@ -76,7 +76,7 @@ ___
 
 <br>
 
-#### Task 2.3 - Deleting a Notebook
+### Task 2.3 - Deleting a Notebook
 
 1. **Click** on the [Notebook] on your side bar to check all notebooks.
 
@@ -92,7 +92,7 @@ ___
 
 <br>
 
-#### Task 2.4 - Adding a Note to the Notebook you Created
+### Task 2.4 - Adding a Note to the Notebook you Created
 
 1. **Click** on the [Notebook] on your side bar to check all notebooks.
 
@@ -117,7 +117,7 @@ ___
 
 <br>
 
-#### Task 2.5 - Deleting the Note on a Specific Notebook
+### Task 2.5 - Deleting the Note on a Specific Notebook
 
 1. **Click** on the [Notebook] on your side bar to check all notebooks.
 
@@ -145,6 +145,6 @@ ___
 ___
 
 <br>
-#### Task 2 - Completion Checklist
+### Task 2 - Completion Checklist
 
 We have completed our first task of creating notebook and editing its properties. We then created notes inside the notebook. You should be ready to create your own organized notebook.
