@@ -1,6 +1,6 @@
 ---
 category: Help
-path: '/help'
+path: '/task/help'
 title: Troubleshooting
 layout: nil
 ---
