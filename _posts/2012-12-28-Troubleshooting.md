@@ -24,7 +24,7 @@ ___
 
 ## How to find and recover deleted notes
 
-When you delete a note, it will automatically move to the "Trash" notebook in your account.Deleted notes will remain until they are discarded manually and can be restored at any time. Below, instructions will be pr
+When you delete a note, it will automatically move to the "Trash" notebook in your account. Deleted notes will remain until they are discarded manually and can be restored at any time. To find your trash notes and recover them:
 
 #### Find your trash notes
 
@@ -34,7 +34,7 @@ When you delete a note, it will automatically move to the "Trash" notebook in yo
 
    1. **Click** on a note 
    2. **Click** [Restore]
-   3. **Click** [Restore note], to move notes out of the Trash and return them back to the notebook they were saved to before they were deleted. 
+   3. **Click** [Restore note]
     
    | :---: | :---: |
     | <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/MoreInformation.png" id="note"> |     **Note**: If that notebook no longer exists, the notes are placed in your default notebook. |
