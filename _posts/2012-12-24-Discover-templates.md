@@ -1,6 +1,6 @@
 ---
-category: Stuff
-path: '/stuff'
+category: Task
+path: '/task'
 title: 'Discovering templates'
 
 layout: nil
