@@ -29,7 +29,7 @@ When you delete a note, it will automatically move to the "Trash" notebook in yo
 
 #### Find your trash notes
 
-   Check your [Trash] to see deleted a note.
+   * Check your [Trash] to see deleted a note.
 
 #### Recover your deleted notes
 
