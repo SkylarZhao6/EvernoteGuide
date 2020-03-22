@@ -1,16 +1,18 @@
 ---
 category: Task
 path: '/task'
-title: 'Installing and utilizing Web Clipper'
+title: 'Installing and Utilizing Web Clipper'
 
 layout: nil
 ---
 
-# Installing and utilizing Evernote Web Clipper
+# Installing and Utilizing Web Clipper
 
 ___
 
 <br>
+
+## Instructions
 
 This section will show you:
 
@@ -26,7 +28,11 @@ ___
 
 <br>
 
-## Install Web Clipper
+### Task 5 - Installing and Utilizing Evernote Web Clipper
+
+Web Clipper is a web extension from Evernote, it equivalents to a digital bookmark with many advanced features.
+
+### Task 5.1 - Installing Web Clipper
 
 1. Go to Evernote on a web browser.
 
@@ -46,9 +52,9 @@ ___
 
 <br>
 
-## Utilize Web Clipper
+### Task 5.2 - Utilizing Web Clipper
 
-We will show you how to apply Web Clipper's main features on __The New York Times__ and use __Google Chrome__ as an example.
+In this task, we will show you how to apply Web Clipper's main features on __The New York Times__ and use __Google Chrome__ as an example.
 
 Click the green elephant logo on the top tool bar. It will generate a list and change the web page format to **Simplified article** by default.
 
@@ -60,7 +66,7 @@ ___
 
 <br>
 
-### Choose clip format
+### Task 5.3 - Choosing a Clip Format
 
 In the **Clip format** section of the list, you will have five options to display the current web page:
 
@@ -88,7 +94,7 @@ ___
 
 <br>
 
-### Save clip into Evernote
+### Task 5.4 - Saving a Clip into Evernote Account
 
 Once the decision on **Clip format** has been made, save the clip into your Evernote notebook by clicking the green **Save clip** button on the top. You will be redirected to Evernote main page with the clip.
 
@@ -100,7 +106,7 @@ ___
 
 <br>
 
-### Save clip into certain notebook
+### Task 5.5 - Saving a Clip into a Notebook
 
 The **Organization** section will save your operations on the clip into a certain notebook:
 
@@ -115,12 +121,6 @@ The **Organization** section will save your operations on the clip into a certai
   2. Click **Clip to a new notebook**, and create a new notebook of your choice.
 
   3. Choose one from the existing notebooks that been displayed under **Notebooks**.
-
-    <br>
-
-    ___
-
-    <br>
 
 - Add tags and remarks:
 
