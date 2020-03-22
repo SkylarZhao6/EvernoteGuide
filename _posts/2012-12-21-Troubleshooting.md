@@ -40,6 +40,8 @@ When you delete a note, it will automatically move to the "Trash" notebook in yo
    | :---: | :---: |
     | <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/MoreInformation.png" id="note"> |     **Note**: If that notebook no longer exists, the notes are placed in your default notebook. |
     
+   <br>
+    
    ![More information](https://media.giphy.com/media/jV5dd1hZt0yf8gXHGQ/giphy.gif)
 
 <br>
