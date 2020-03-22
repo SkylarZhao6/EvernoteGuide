@@ -32,6 +32,12 @@ ___
 
 Web Clipper is a web extension from Evernote, it equivalents to a digital bookmark with many advanced features.
 
+<br>
+
+___
+
+<br>
+
 ### Task 5.1 - Installing Web Clipper
 
 1. Go to Evernote on a web browser.
