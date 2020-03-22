@@ -1,5 +1,6 @@
 ---
-Path: '/Help'
+category: Help
+path: '/help'
 title: Troubleshooting
 layout: nil
 ---
