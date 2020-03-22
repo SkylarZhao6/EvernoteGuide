@@ -80,6 +80,8 @@ If you're experiencing issues with Evernote, visit [Evernote Help & Learning](ht
 
 | :---: | :---: |
     | <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/MoreInformation.png" id="note"> |     **Note**: You may need to log in first. |
+
+<br>
     
 [More Informtion](https://media.giphy.com/media/U6FVChXJvWkThZiRcJ/giphy.gif)
 
