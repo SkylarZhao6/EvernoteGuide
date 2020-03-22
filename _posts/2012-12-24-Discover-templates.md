@@ -110,13 +110,13 @@ ___
 
      This method combines the previous two ways.
 
-    1. Enter "menu" in the top, right input bar
+     1. Enter "menu" in the top, right input bar
      
-    2. Select one option from collections or categories
+     2. Select one option from collections or categories
 
      <img src="https://github.com/SkylarZhao6/EvernoteGuide/blob/gh-pages/images/menuresult.png?raw=true" id="result">
 
-    | <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Warning.png" id="note"> | **Note**: The order does not matter. |
+     | <img src="https://raw.githubusercontent.com/SkylarZhao6/EvernoteGuide/gh-pages/images/Warning.png" id="note"> | **Note**: The order does not matter. |
 
     <br>
 
