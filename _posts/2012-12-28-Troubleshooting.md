@@ -26,11 +26,11 @@ ___
 
 When you delete a note, it will automatically move to the "Trash" notebook in your account.Deleted notes will remain until they are discarded manually and can be restored at any time. Below, instructions will be pr
 
-    ####Find your trash notes
+####Find your trash notes
 
     Check your [Trash] to see deleted a note.
 
-    ####Recover your deleted notes
+####Recover your deleted notes
 
     1. **Click** on a note 
     2. **Click** [Restore]
