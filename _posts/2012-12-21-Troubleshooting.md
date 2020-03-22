@@ -60,9 +60,9 @@ ___
 
 If content inside a note becomes lost or corrupted, try the following troubleshooting steps:
 
-1. Search for conflicts: Try searching for notebooks titled 'Conflicting Changes.' Open any notes you find inside and check for your missing content.
+* Search for conflicts: Try searching for notebooks titled 'Conflicting Changes.' Open any notes you find inside and check for your missing content.
 
-2. Contact support: If you still can't locate your content, [contact us](https://www.evernote.com/SupportLogin.action) for additional assistance. When submitting your support request, select Technical Issues > Notes > Lost Notes or Missing Content.
+* Contact support: If you still can't locate your content, [contact us](https://www.evernote.com/SupportLogin.action) for additional assistance. When submitting your support request, select Technical Issues > Notes > Lost Notes or Missing Content.
 
 <br>
 
