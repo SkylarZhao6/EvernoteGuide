@@ -27,7 +27,7 @@ ___
 
 <br>
 
-### Task 2 - Creating a Notebook for a Semester
+### Task 2 - Creating a Notebook
 
 Notebooks are used in Evernote to seperate main tasks. We will be going through how to create a new notebook, how to rename a notebook and how to delete a notebook.
 
