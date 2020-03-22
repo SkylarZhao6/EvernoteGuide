@@ -83,7 +83,7 @@ If you're experiencing issues with Evernote, visit [Evernote Help & Learning](ht
 
 <br>
     
-[More Informtion](https://media.giphy.com/media/U6FVChXJvWkThZiRcJ/giphy.gif)
+![More Informtion](https://media.giphy.com/media/U6FVChXJvWkThZiRcJ/giphy.gif)
 
 <br>
 
