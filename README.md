@@ -1,68 +1,53 @@
-## The "What ?" and the "Why ?"
+# Report on Evernote Guide
 
-**Carte** is a simple Jekyll based documentation website for APIs. It is designed as a boilerplate to build your own documentation and is heavily inspired from [Swagger](http://swagger.wordnik.com/) and [I/O docs](http://www.mashery.com/product/io-docs). Fork it, add specifications for your APIs calls and customize the theme. <small>Go ahead, see if we care.</small>
+## Editors
 
-We built **Carte** because the existing options (Swagger and the likes) were trying to do too much and did not match our needs:
+* Adrian Hon
+* Skylar Zhao
 
-1. Most of our API calls are sending JSON objects, as opposed to a series of parameters,
-1. Being able to query the real API is nice, but running anything but `GET` calls can get tricky ("What do you mean I deleted my stuff? I was just trying out the API calls!"),
-1. Overall, setting up a separate server for what really requires a good static documentation seemed overkill.
+## Theme and style guide
 
-The real value of **Carte** is its structure for describing APIs, not its underlying technical stack (or lack-thereof). In a nutshell; **we built a static template for your API documentation, feel free to re-use it**.
+* Theme: [Jekyll theme](http://jekyllthemes.org/themes/carte/)
 
-## Install
+* Style guide [Digital Ocean](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines)
 
-It' Jekyll god dammit:
+## Tools we used
 
-1. Clone this repository on your local,
-1. [Install Jekyll](https://github.com/mojombo/jekyll/wiki/install),
-1. Go at the root of the repository and run ```jekyll serve --watch```,
-1. Go to http://localhost:4000,
-1. [Great success! High five!](http://www.youtube.com/watch?v=wWWyJwHQ-4E)
+* Vscode
+* Slack
+* Zoom
+* Mardown extention
 
-## How to...
+## Why did we choose this topic?
 
-### Adding a new API call
+We choose Evernote because it had a wide variety of functions to explore. Our goal was to utilize their basic operations to beginners and students that are looking for a friendly note taking app.
 
-You can add a new API call by simply adding a new post in the `_posts` folder. Jekyll by default forces you to specify a date in the file path: it makes us sad pandas too, but you'll have to stick to this format. You can use dates to control the order in which API calls are displayed in the interface.
+## Why did we choose this theme?
 
-Each API call can define a few values in its YAML header:
+We choose this theme because it kept all the sections organized and overall the website had a clean layout for readability.
 
-Variable | Mandatory | Default | Description
---- | --- | --- | ---
-``title`` | Y | - | A short description of what that calls does.
-``path`` | N | - | The URL for the API call, including potential parameters.
-``type`` | N | - | Set it to `PUT`, `GET`, `POST`, `DELETE` or nothing (for parts of your documentation that do not relate to an actual API call).
+## How did we collaborate during this time?
 
-A typical header:
+We began writing our set of tasks and created screenshots for more clarity.
+Initially, we collaborated in person to work on the project.
+Due to the recent COVID-19 situation, it we transistion to remote and started collaborating online.
+Using online communication such as Slack and Zoom helped keep each other in sync.
 
-```
----
-path: '/stuff/:id'
-title: 'Delete a thing'
-type: 'DELETE'
+## What are some things we learned?
 
-layout: nil
----
-```
+* Writing markdown files
+* Utilizing Jekyll theme
 
-We then describe the request and response (or whatever else you wish to talk about) in the body of our post. Check the placeholders present in the `_posts` folder to get an idea of what it can look like.
+Some jekyll themes are written differently so we had to read through the documentation to fully grasp how to input our part.
 
-### Grouping calls
 
-Adding a category to your YAML header will allows you to group methods in the navigation. It is particularly helpful as you start having a lot of methods and need to organize them. For example:
+## What were some difficulties when creating this guide?
 
-```
----
-category: Stuff
-path: '/stuff/:id'
-title: 'Delete a thing'
-type: 'DELETE'
+* Resizing the images
+* Making the tables
+* Spacing everything
+* Formatting code in jekyll theme is different
 
-layout: nil
----
-```
+Again, formatting the markdown on Github compared to the jekyll website was different. We managed to overcome the challenge by reading their documentation to understand their formatting style. We tested multiple methods to make sure its readable with proper amount of spacing. In addition, we had to resize some images for more clarity.
+___
 
-### Edit the design
-
-The default UI is mostly described through the `css/style.css` file and a couple short jQuery scripts in the `/_layouts/default.html` layout. Hack it to oblivion.
